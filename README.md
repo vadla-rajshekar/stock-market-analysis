@@ -23,3 +23,4 @@ Live stock data fetched using Yahoo Finance API.
 
 ## Author
 Rajashekar
+Aspiring Data Analyst / Data Scientist
