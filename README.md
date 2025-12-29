@@ -22,5 +22,5 @@ Netflix, and Google using live data from Yahoo Finance API.
 Live stock data fetched using Yahoo Finance API.
 
 ## Author
-Rajashekar
+**Rajashekar**
 Aspiring Data Analyst / Data Scientist
